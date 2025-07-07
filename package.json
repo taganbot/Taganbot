@@ -1,0 +1,13 @@
+{
+  "name": "taqanbot",
+  "version": "1.0.0",
+  "description": "Taqan Bot Max - السرعة القصوى",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Bo Suweilm",
+  "license": "MIT",
+  "dependencies": {}
+}
